@@ -1,0 +1,8 @@
+# commands
+cmd.txt
+
+# venv
+\.venv
+
+#img
+__pycache__
